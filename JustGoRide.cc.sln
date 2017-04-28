@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustGoRide.cc.Models", "src\JustGoRide.cc.Models\JustGoRide.cc.Models.csproj", "{6F952048-DE79-40CC-8879-E6E144F9F341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustGoRide.cc.Providers", "src\JustGoRide.cc.Providers\JustGoRide.cc.Providers.csproj", "{759A16B3-31E9-4D2B-962A-869694244960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustGoRide.cc.Interfaces", "src\JustGoRide.cc.Interfaces\JustGoRide.cc.Interfaces.csproj", "{2A24D169-FE06-4300-8AA6-9480E6693037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustGoRide.cc.Services", "src\JustGoRide.cc.Services\JustGoRide.cc.Services.csproj", "{30464BAA-FD0B-49B7-8E79-B3A85250D331}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustGoRide.cc.WebCore", "src\JustGoRide.cc.WebCore\JustGoRide.cc.WebCore.csproj", "{4426F1C9-47D3-43AE-A303-FAF4CAF2142E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustGoRide.cc.Web", "src\JustGoRide.cc.Web\JustGoRide.cc.Web.csproj", "{A76F9C56-A557-4FB6-9613-035E4D3937FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F952048-DE79-40CC-8879-E6E144F9F341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F952048-DE79-40CC-8879-E6E144F9F341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F952048-DE79-40CC-8879-E6E144F9F341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F952048-DE79-40CC-8879-E6E144F9F341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759A16B3-31E9-4D2B-962A-869694244960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759A16B3-31E9-4D2B-962A-869694244960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759A16B3-31E9-4D2B-962A-869694244960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759A16B3-31E9-4D2B-962A-869694244960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A24D169-FE06-4300-8AA6-9480E6693037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A24D169-FE06-4300-8AA6-9480E6693037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A24D169-FE06-4300-8AA6-9480E6693037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A24D169-FE06-4300-8AA6-9480E6693037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30464BAA-FD0B-49B7-8E79-B3A85250D331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30464BAA-FD0B-49B7-8E79-B3A85250D331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30464BAA-FD0B-49B7-8E79-B3A85250D331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30464BAA-FD0B-49B7-8E79-B3A85250D331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4426F1C9-47D3-43AE-A303-FAF4CAF2142E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4426F1C9-47D3-43AE-A303-FAF4CAF2142E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4426F1C9-47D3-43AE-A303-FAF4CAF2142E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4426F1C9-47D3-43AE-A303-FAF4CAF2142E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76F9C56-A557-4FB6-9613-035E4D3937FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76F9C56-A557-4FB6-9613-035E4D3937FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76F9C56-A557-4FB6-9613-035E4D3937FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76F9C56-A557-4FB6-9613-035E4D3937FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
